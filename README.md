@@ -192,27 +192,37 @@ http://localhost:5000
 
 ## Homepage
 
-_Add screenshot here_
+![Homepage](screenshots/Home.png)
 
 ---
 
 ## Live Detection
 
-_Add screenshot here_
+![Detection](screenshots/Detect.png)
 
 ---
 
 ## Heatmap Visualization
 
-_Add screenshot here_
+![Heatmap](screenshots/Map.png)
+
+---
+
+## Admin Login
+
+![Admin Login](screenshots/Admin%20login.png)
 
 ---
 
 ## Admin Dashboard
 
-_Add screenshot here_
+![Dashboard](screenshots/Admin%20dashboard.png)
 
 ---
+
+## Reports System
+
+![Reports](screenshots/Report.png)
 
 # 🔮 Future Improvements
 
